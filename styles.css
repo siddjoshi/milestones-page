@@ -245,16 +245,7 @@ body {
     margin: 0 auto;
 }
 
-.timeline-path::before {
-    content: '';
-    position: absolute;
-    left: 30px;
-    top: 0;
-    bottom: 0;
-    width: 2px;
-    background: var(--primary-gradient);
-    border-radius: 1px;
-}
+/* Removed center line - .timeline-path::before pseudo-element that created unwanted vertical line */
 
 /* Milestone Styles */
 .milestone {
