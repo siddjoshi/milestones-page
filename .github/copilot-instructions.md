@@ -1,0 +1,1 @@
+- Do not use negative words such as hostile. 
